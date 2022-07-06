@@ -1,0 +1,57 @@
+.container{
+    max-width: 1400px;
+    margin: auto;
+    padding: 0 30px;
+}
+
+.state{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 20px;
+}
+
+.state-form-label{
+    color: white;
+}
+
+.state-form-input{
+    padding: 10px 30px 10px 10px;
+    background: rgb(41, 64, 81);
+    border: none;
+    outline: none;
+    color: white;
+}
+
+.select{
+    padding: 10px;
+    background: rgb(41, 64, 81);
+    border: none;
+    color: white;
+}
+
+
+.card{
+    width: 22%;
+    margin-top: 40px;
+    color: white;
+    background: rgb(41, 64, 81);
+}
+
+.card-img-top{
+    width: 100%;
+    height: 180px;
+}
+.card-title{
+    padding-top: 20px;
+}
+
+.card-body{
+    width: 80%;
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+
+dl{
+    margin: 10px 0;
+    display: flex;
+}

@@ -1,0 +1,27 @@
+
+body{
+    background: rgb(30, 41, 62);
+}
+
+.container{
+    max-width: 1400px;
+    margin: auto;
+    padding: 0 30px;
+}
+
+header{
+    background: rgb(41, 64, 81);
+    align-items: center;
+}
+
+.header-item{
+    position: relative;
+    width: 100%;
+    display: flex;
+    color: white;
+}
+
+.header-item-desc{
+    position: absolute;
+    right: 0;
+}

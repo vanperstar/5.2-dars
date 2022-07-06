@@ -1,0 +1,35 @@
+.container{
+    max-width: 1400px;
+    margin: auto;
+    padding: 0 30px;
+}
+
+.state{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 20px;
+}
+
+.state-form-label{
+    color: white;
+}
+
+.state-form-input{
+    padding: 10px 30px 10px 10px;
+    background: rgb(41, 64, 81);
+    border: none;
+    outline: none;
+    color: white;
+}
+
+.select{
+    padding: 10px;
+    background: rgb(41, 64, 81);
+    border: none;
+    color: white;
+}
+
+.state-item{
+    margin-top: 40px;
+    color: white;
+}
