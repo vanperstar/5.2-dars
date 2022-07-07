@@ -1,6 +1,7 @@
 
 body{
     background: rgb(30, 41, 62);
+    user-select: none;
 }
 
 .container{
@@ -24,4 +25,5 @@ header{
 .header-item-desc{
     position: absolute;
     right: 0;
+    cursor: pointer;
 }
